@@ -68,7 +68,7 @@
     </div>
     
     <div id="footer">
-      Copyright &copy; <a href="http://web.mit.edu/">Massachusetts Institute of Technology</a> and Contributors 2006-2009 ~ Some rights reserved
+      Copyright &copy; Not yet defined
     </div>
   </body>
 </html>
