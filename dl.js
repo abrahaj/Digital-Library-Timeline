@@ -13,21 +13,21 @@
 
         {'start': '1944',
         'title': 'Howard Aiken completes the Harvard Mark 1 computer',
-        'description': 'Harvard Mark-1 is completed. Conceived by Harvard professor Howard Aiken, and designed and built by IBM, the Harvard Mark-1 was a room-sized, relay-based calculator. The machine had a fifty-foot long camshaft that synchronized the machineís thousands of component parts. The Mark-1 was used to produce mathematical tables but was soon superseded by stored program computers.',
+        'description': 'Harvard Mark-1 is completed. Conceived by Harvard professor Howard Aiken, and designed and built by IBM, the Harvard Mark-1 was a room-sized, relay-based calculator. The machine had a fifty-foot long camshaft that synchronized the machineÔøΩs thousands of component parts. The Mark-1 was used to produce mathematical tables but was soon superseded by stored program computers.',
         'image': 'http://www.computerhistory.org/timeline/images/1944_harvard_markI.jpg',
         'link': 'http://www.computerhistory.org/timeline/?year=1944'
         },
 
         {'start': '1944',
         'title': 'Colossus vacuum tube computer is completed at Bletchley Park in the UK',
-        'description': 'The first Colossus is operational at Bletchley Park. Designed by British engineer Tommy Flowers, the Colossus was designed to break the complex Lorenz ciphers used by the Nazis during WWII. A total of ten Colossi were delivered to Bletchley, each using 1,500 vacuum tubes and a series of pulleys transported continuous rolls of punched paper tape containing possible solutions to a particular code. Colossus reduced the time to break Lorenz messages from weeks to hours. The machineís existence was not made public until the 1970s',
+        'description': 'The first Colossus is operational at Bletchley Park. Designed by British engineer Tommy Flowers, the Colossus was designed to break the complex Lorenz ciphers used by the Nazis during WWII. A total of ten Colossi were delivered to Bletchley, each using 1,500 vacuum tubes and a series of pulleys transported continuous rolls of punched paper tape containing possible solutions to a particular code. Colossus reduced the time to break Lorenz messages from weeks to hours. The machineÔøΩs existence was not made public until the 1970s',
         'image': 'http://www.computerhistory.org/timeline/images/1944_Colossus.jpg',
         'link': 'http://www.computerhistory.org/timeline/?year=1944'
         },
 		
 		{'start': '1945',
         'title': 'Grace Hopper finds a moth in the Harvard Mark II -- the first computer bug.',
-        'description': 'On September 9th, Grace Hopper recorded the first actual computer "bug" ó a moth stuck between the relays and logged at 15:45 hours on the Harvard Mark II. Hopper, a rear admiral in the U.S. Navy, enjoyed successful careers in academia, business, and the military while making history in the computer field. She helped program the Harvard Mark I and II and developed the first compiler, A-0. Her subsequent work on programming languages led to COBOL, a language specified to operate on machines of different manufacturers.',
+        'description': 'On September 9th, Grace Hopper recorded the first actual computer "bug" ÔøΩ a moth stuck between the relays and logged at 15:45 hours on the Harvard Mark II. Hopper, a rear admiral in the U.S. Navy, enjoyed successful careers in academia, business, and the military while making history in the computer field. She helped program the Harvard Mark I and II and developed the first compiler, A-0. Her subsequent work on programming languages led to COBOL, a language specified to operate on machines of different manufacturers.',
         'image': 'http://www.computerhistory.org/timeline/images/1945_hopper.jpg',
         'link': 'http://www.computerhistory.org/timeline/?year=1945'
         },
@@ -65,13 +65,13 @@
         },
 		{'start': '1952',
         'title': 'IBM 726 implements high speed magnetic tape storage',
-        'description': 'Magnetic tape allows for inexpensive mass storage of information and so is a key part of the computer revolution.  The IBM 726 was one of the first practical high-speed magnetic tape systems for electronic digital computers.  Announced on May 21, 1952, the system used a unique ëvacuum channelí method of keeping a loop of tape circulating between two points allowing the tape drive to start and stop the tape in a split-second.  The Model 726 was first sold with IBMís first electronic digital computer the Model 701 and could store 2 million digits per tapeóan enormous amount at the time.  It rented for $850 a month.',
+        'description': 'Magnetic tape allows for inexpensive mass storage of information and so is a key part of the computer revolution.  The IBM 726 was one of the first practical high-speed magnetic tape systems for electronic digital computers.  Announced on May 21, 1952, the system used a unique ÔøΩvacuum channelÔøΩ method of keeping a loop of tape circulating between two points allowing the tape drive to start and stop the tape in a split-second.  The Model 726 was first sold with IBMÔøΩs first electronic digital computer the Model 701 and could store 2 million digits per tapeÔøΩan enormous amount at the time.  It rented for $850 a month.',
         'image': 'http://www.computerhistory.org/timeline/images/1952_ibm726.jpg',
         'link': 'http://www.computerhistory.org/timeline/?year=1952'
         },		
 		{'start': '1956',
         'title': 'IBM magnetic disk becomes available.',
-        'description': 'The era of magnetic disk storage dawned with IBM¥s shipment of a 305 RAMAC to Zellerbach Paper in San Francisco. The IBM 350 disk file served as the storage component for the Random Access Method of Accounting and Control. It consisted of 50 magnetically coated metal platters with 5 million bytes of data. The platters, stacked one on top of the other, rotated with a common drive shaft.',
+        'description': 'The era of magnetic disk storage dawned with IBMÔøΩs shipment of a 305 RAMAC to Zellerbach Paper in San Francisco. The IBM 350 disk file served as the storage component for the Random Access Method of Accounting and Control. It consisted of 50 magnetically coated metal platters with 5 million bytes of data. The platters, stacked one on top of the other, rotated with a common drive shaft.',
         'image': 'http://www.computerhistory.org/timeline/images/1956_ramac_rjohnson.jpg',
         'link': 'http://www.computerhistory.org/timeline/?year=1956'
         },	
@@ -98,15 +98,15 @@
 
 		{'start': '1962',
         'title': 'J.C.R. Licklider becomes head of the computer research program at ARPA (Advanced Research Projects Agency). The world has 10,000 computers.',
-        'description': 'J.C.R. Licklider writes memos about his Intergalactic Network concept, where everyone on the globe is interconnected and can access programs and data at any site from anywhere. He is talking to his own ëIntergalactic Networkí of researchers across the country. In October, ëLickí becomes the first head of the computer research program at ARPA, which he calls the Information Processing Techniques Office (IPTO).',
-		'caption': 'J.C.R. Licklider writes memos about his Intergalactic Network concept, where everyone on the globe is interconnected and can access programs and data at any site from anywhere. He is talking to his own ëIntergalactic Networkí of researchers across the country. In October, ëLickí becomes the first head of the computer research program at ARPA, which he calls the Information Processing Techniques Office (IPTO).',
+        'description': 'J.C.R. Licklider writes memos about his Intergalactic Network concept, where everyone on the globe is interconnected and can access programs and data at any site from anywhere. He is talking to his own ÔøΩIntergalactic NetworkÔøΩ of researchers across the country. In October, ÔøΩLickÔøΩ becomes the first head of the computer research program at ARPA, which he calls the Information Processing Techniques Office (IPTO).',
+		'caption': 'J.C.R. Licklider writes memos about his Intergalactic Network concept, where everyone on the globe is interconnected and can access programs and data at any site from anywhere. He is talking to his own ÔøΩIntergalactic NetworkÔøΩ of researchers across the country. In October, ÔøΩLickÔøΩ becomes the first head of the computer research program at ARPA, which he calls the Information Processing Techniques Office (IPTO).',
         'image': 'http://www.computerhistory.org/internet_history/internet_poster.gif',
         'link': 'http://www.computerhistory.org/internet_history/'
         },
 		{'start': '1962',
-        'title': 'First interactive computer game at MIT ìSpacewar!î.',
-        'description': 'MIT students Slug Russell, Shag Graetz, and Alan Kotok wrote SpaceWar!, considered the first interactive computer game. First played at MIT on DEC¥s PDP-1, the large-scope display featured interactive, shoot¥em-up graphics that inspired future video games. Dueling players fired at each other¥s spaceships and used early versions of joysticks to manipulate away from the central gravitational force of a sun as well as from the enemy ship.',
-		'caption': 'MIT students Slug Russell, Shag Graetz, and Alan Kotok wrote SpaceWar!, considered the first interactive computer game. First played at MIT on DEC¥s PDP-1, the large-scope display featured interactive, shoot¥em-up graphics that inspired future video games. Dueling players fired at each other¥s spaceships and used early versions of joysticks to manipulate away from the central gravitational force of a sun as well as from the enemy ship.',
+        'title': 'First interactive computer game at MIT ÔøΩSpacewar!ÔøΩ.',
+        'description': 'MIT students Slug Russell, Shag Graetz, and Alan Kotok wrote SpaceWar!, considered the first interactive computer game. First played at MIT on DECÔøΩs PDP-1, the large-scope display featured interactive, shootÔøΩem-up graphics that inspired future video games. Dueling players fired at each otherÔøΩs spaceships and used early versions of joysticks to manipulate away from the central gravitational force of a sun as well as from the enemy ship.',
+		'caption': 'MIT students Slug Russell, Shag Graetz, and Alan Kotok wrote SpaceWar!, considered the first interactive computer game. First played at MIT on DECÔøΩs PDP-1, the large-scope display featured interactive, shootÔøΩem-up graphics that inspired future video games. Dueling players fired at each otherÔøΩs spaceships and used early versions of joysticks to manipulate away from the central gravitational force of a sun as well as from the enemy ship.',
         'image': 'http://www.computerhistory.org/timeline/images/1962_spacewar.jpg',
         'link': 'http://www.computerhistory.org/timeline/?year=1962'
         },
@@ -183,8 +183,8 @@
         },
 		{'start': '1971',
         'title': 'Ray Tomlinson sends the first email ',
-        'description': 'The first e-mail is sent. Ray Tomlinson of the research firm Bolt, Beranek and Newman sent the first e-mail when he was supposed to be working on a different project. Tomlinson, who is credited with being the one to decide on the "@" sign for use in e-mail, sent his message over a military network called ARPANET. When asked to describe the contents of the first email, Tomlinson said it was ìsomething like "QWERTYUIOP"î',
-		'caption': 'The first e-mail is sent. Ray Tomlinson of the research firm Bolt, Beranek and Newman sent the first e-mail when he was supposed to be working on a different project. Tomlinson, who is credited with being the one to decide on the "@" sign for use in e-mail, sent his message over a military network called ARPANET. When asked to describe the contents of the first email, Tomlinson said it was ìsomething like "QWERTYUIOP"î',
+        'description': 'The first e-mail is sent. Ray Tomlinson of the research firm Bolt, Beranek and Newman sent the first e-mail when he was supposed to be working on a different project. Tomlinson, who is credited with being the one to decide on the "@" sign for use in e-mail, sent his message over a military network called ARPANET. When asked to describe the contents of the first email, Tomlinson said it was ÔøΩsomething like "QWERTYUIOP"ÔøΩ',
+		'caption': 'The first e-mail is sent. Ray Tomlinson of the research firm Bolt, Beranek and Newman sent the first e-mail when he was supposed to be working on a different project. Tomlinson, who is credited with being the one to decide on the "@" sign for use in e-mail, sent his message over a military network called ARPANET. When asked to describe the contents of the first email, Tomlinson said it was ÔøΩsomething like "QWERTYUIOP"ÔøΩ',
         'image': 'http://www.computerhistory.org/timeline/images/1971_tomlinson1.jpg',
         'link': 'http://www.computerhistory.org/timeline/?year=1971'
         },		
@@ -208,8 +208,8 @@
         },	
 		{'start': '1974',
         'title': 'The first mouse is used in the Alto at Xerox Research PARC',
-        'description': 'Researchers at the Xerox Palo Alto Research Center designed the Alto ó the first work station with a built-in mouse for input. The Alto stored several files simultaneously in windows, offered menus and icons, and could link to a local area network. Although Xerox never sold the Alto commercially, it gave a number of them to universities. Engineers later incorporated its features into work stations and personal computers.',
-		'caption': 'Researchers at the Xerox Palo Alto Research Center designed the Alto ó the first work station with a built-in mouse for input. The Alto stored several files simultaneously in windows, offered menus and icons, and could link to a local area network. Although Xerox never sold the Alto commercially, it gave a number of them to universities. Engineers later incorporated its features into work stations and personal computers.',
+        'description': 'Researchers at the Xerox Palo Alto Research Center designed the Alto ÔøΩ the first work station with a built-in mouse for input. The Alto stored several files simultaneously in windows, offered menus and icons, and could link to a local area network. Although Xerox never sold the Alto commercially, it gave a number of them to universities. Engineers later incorporated its features into work stations and personal computers.',
+		'caption': 'Researchers at the Xerox Palo Alto Research Center designed the Alto ÔøΩ the first work station with a built-in mouse for input. The Alto stored several files simultaneously in windows, offered menus and icons, and could link to a local area network. Although Xerox never sold the Alto commercially, it gave a number of them to universities. Engineers later incorporated its features into work stations and personal computers.',
         'image': 'http://www.computerhistory.org/timeline/images/1974_alto.jpg',
         'link': 'http://www.computerhistory.org/timeline/?year=1974'
         },		
@@ -246,21 +246,21 @@
         },		
 		{'start': '1981',
         'title': 'The Osborne I (11 Kg / 24 lbs) is sold. Also the IBM PC',
-        'description': 'The first ëportableí computer is launched in the form of the Osborne, a 24-pound suitcase-sized device.<br >The IBM PC is launched in August 1981. ',
-		'caption': 'The first ëportableí computer is launched in the form of the Osborne, a 24-pound suitcase-sized device.<br >The IBM PC is launched in August 1981. ',
+        'description': 'The first ÔøΩportableÔøΩ computer is launched in the form of the Osborne, a 24-pound suitcase-sized device.<br >The IBM PC is launched in August 1981. ',
+		'caption': 'The first ÔøΩportableÔøΩ computer is launched in the form of the Osborne, a 24-pound suitcase-sized device.<br >The IBM PC is launched in August 1981. ',
         'image': 'http://www.computerhistory.org/internet_history/thumbs/osborne_t.jpg',
         'link': 'http://www.computerhistory.org/internet_history/internet_history_80s.html'
         },		
 		{'start': '1981',
         'title': 'MS-DOS is the software for the IBM PC',
-        'description': 'IBM introduced its PC, igniting a fast growth of the personal computer market. The first PC ran on a 4.77 MHz Intel 8088 microprocessor and used Microsoft¥s MS-DOS operating system.',
-		'caption': 'IBM introduced its PC, igniting a fast growth of the personal computer market. The first PC ran on a 4.77 MHz Intel 8088 microprocessor and used Microsoft¥s MS-DOS operating system.',
+        'description': 'IBM introduced its PC, igniting a fast growth of the personal computer market. The first PC ran on a 4.77 MHz Intel 8088 microprocessor and used MicrosoftÔøΩs MS-DOS operating system.',
+		'caption': 'IBM introduced its PC, igniting a fast growth of the personal computer market. The first PC ran on a 4.77 MHz Intel 8088 microprocessor and used MicrosoftÔøΩs MS-DOS operating system.',
         'link': 'http://www.computerhistory.org/timeline/?year=1981'
         },			
 		{'start': '1983',
         'title': 'MS-Word is announced.',
-        'description': 'Microsoft announced Word, originally called Multi-Tool Word, and Windows. The latter doesn¥t ship until 1985, although the company said it would be on track for an April 1984 release. In a marketing blitz, Microsoft distributed 450,000 disks demonstrating its Word program in the November issue of PC World magazine.',
-		'caption': 'Microsoft announced Word, originally called Multi-Tool Word, and Windows. The latter doesn¥t ship until 1985, although the company said it would be on track for an April 1984 release. In a marketing blitz, Microsoft distributed 450,000 disks demonstrating its Word program in the November issue of PC World magazine.',
+        'description': 'Microsoft announced Word, originally called Multi-Tool Word, and Windows. The latter doesnÔøΩt ship until 1985, although the company said it would be on track for an April 1984 release. In a marketing blitz, Microsoft distributed 450,000 disks demonstrating its Word program in the November issue of PC World magazine.',
+		'caption': 'Microsoft announced Word, originally called Multi-Tool Word, and Windows. The latter doesnÔøΩt ship until 1985, although the company said it would be on track for an April 1984 release. In a marketing blitz, Microsoft distributed 450,000 disks demonstrating its Word program in the November issue of PC World magazine.',
         'link': 'http://www.computerhistory.org/timeline/?year=1983'
         },		
 		{'start': '1984',
@@ -278,8 +278,8 @@
         },		
 		{'start': '1984',
         'title': 'The British JANET network focuses on educational institutions.',
-        'description': 'The British JANET explicitly announces its intention to serve the nationís higher education community, regardless of discipline.',
-		'caption': 'The British JANET explicitly announces its intention to serve the nationís higher education community, regardless of discipline.',
+        'description': 'The British JANET explicitly announces its intention to serve the nationÔøΩs higher education community, regardless of discipline.',
+		'caption': 'The British JANET explicitly announces its intention to serve the nationÔøΩs higher education community, regardless of discipline.',
         'link': 'http://www.computerhistory.org/internet_history/internet_history_80s.html'
         },		
 		{'start': '1985',
@@ -330,8 +330,8 @@
         },		
 		{'start': '1987',
         'title': 'Electronic theses and dissertations discussed in Ann Arbor, MI',
-        'description': 'The concept of electronic theses and dissertations (ETDs) was first discussed at a 1987 meeting in Ann Arbor, Michigan, organized by UMI and attended by representatives from Virginia Tech, the University of Michigan, and two small software companiesóToronto-based SoftQuad and Michigan-based ArborText. ',
-		'caption': 'The concept of electronic theses and dissertations (ETDs) was first discussed at a 1987 meeting in Ann Arbor, Michigan, organized by UMI and attended by representatives from Virginia Tech, the University of Michigan, and two small software companiesóToronto-based SoftQuad and Michigan-based ArborText. ',
+        'description': 'The concept of electronic theses and dissertations (ETDs) was first discussed at a 1987 meeting in Ann Arbor, Michigan, organized by UMI and attended by representatives from Virginia Tech, the University of Michigan, and two small software companiesÔøΩToronto-based SoftQuad and Michigan-based ArborText. ',
+		'caption': 'The concept of electronic theses and dissertations (ETDs) was first discussed at a 1987 meeting in Ann Arbor, Michigan, organized by UMI and attended by representatives from Virginia Tech, the University of Michigan, and two small software companiesÔøΩToronto-based SoftQuad and Michigan-based ArborText. ',
 		'image': 'http://www.ndltd.org/logo.gif',
         'link': 'http://www.ndltd.org/about/history'
         },
@@ -340,7 +340,157 @@
         'description': 'The Morris WORM burrows on the Internet into 6,000 of the 60,000 hosts now on the network. This is the first worm experience and DARPA forms the Computer Emergency Response Team (CERT) to deal with future such incidents.',
 		'caption': 'The Morris WORM burrows on the Internet into 6,000 of the 60,000 hosts now on the network. This is the first worm experience and DARPA forms the Computer Emergency Response Team (CERT) to deal with future such incidents.',
         'link': 'http://www.computerhistory.org/internet_history/internet_history_80s.html'
-        },		
-      
+        },	
+		{'start': '1989',
+            'title': 'Germany, Netherlands, Italy, United Kingdon, Australia, New Zealand, Japan, and Mexico join the Internet',
+            'description': 'Australia, Germany, Israel, Italy, Japan, Mexico, Netherlands, New Zealand and the United Kingdom join the Internet.',
+    		'caption': 'Australia, Germany, Israel, Italy, Japan, Mexico, Netherlands, New Zealand and the United Kingdom join the Internet.',
+            'link': 'http://www.computerhistory.org/internet_history/internet_history_80s.html'
+            },	
+       {'start': '1989',
+         'title': 'CLASS Project begins at Cornell University'         
+       },	
+       {'start': '1989',
+           'title': 'Brewster Kahle develops WAIS (Wide Area Information Server)',
+           'description':'Wide Area Information Servers or WAIS is a client‚Äìserver text searching system that uses the ANSI Standard Z39.50 Information Retrieval Service Definition and Protocol Specifications for Library Applications" (Z39.50:1988) to search index databases on remote computers. It was developed in the late 1980s as a project of Thinking Machines, Apple Computer, Dow Jones, and KPMG Peat Marwick.<br />WAIS did not adhere to either the standard or its OSI framework (adopting instead TCP/IP) but created a unique protocol inspired by Z39.50:1988.',
+           'image': 'http://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Brewster_Kahle_2009.jpg/220px-Brewster_Kahle_2009.jpg',           
+           'link': 'http://onlinelibrary.wiley.com/doi/10.1002/(SICI)1097-4571(199309)44:8%3C453::AID-ASI4%3E3.0.CO;2-E/abstract'
+       },
+       {'start': '1989',
+           'title': 'TIm Berners-Lee proposes the hypertext system that later becomes the WWW.',
+           'description':'In Switzerland at CERN Tim Berners-Lee addresses the issue of the constant change in the currency of information and the turn-over of people on projects. Instead of an hierarchical or keyword organization, Berners-Lee proposes a hypertext system that will run across the Internet on different operating systems. This was the World Wide Web.',
+           'image': 'http://www.computerhistory.org/internet_history/thumbs/berners-lee_t.jpg',           
+           'link': 'http://www.computerhistory.org/internet_history/internet_history_80s.html'
+       }, 
+       {'start': '1990',
+           'title': 'JSTOR Project begins at the University of Michigan'
+       }, 
+       {'start': '1990',
+           'title': 'Gopher (Univ. of Minnisota) and WAIS (Brewster Kehle) appear',
+           'description':'WAIS‚Äôs and Gophers help meet the challenge of searching for information throughout this exploding infrastructure of computers.',
+           'link': 'http://www.computerhistory.org/internet_history/internet_history_90s.html'
+       }, 
+       {'start': '1990',
+           'title': 'MS-Windows ships.',
+           'description':'Microsoft shipped Windows 3.0 on May 22. Compatible with DOS programs, the first successful version of Windows finally offered good enough performance to satisfy PC users. For the new version, Microsoft revamped the interface and created a design that allowed PCs to support large graphical applications for the first time. It also allowed multiple programs to run simultaneously on its Intel 80386 microprocessor.',
+           'caption':'Microsoft shipped Windows 3.0 on May 22. Compatible with DOS programs, the first successful version of Windows finally offered good enough performance to satisfy PC users. For the new version, Microsoft revamped the interface and created a design that allowed PCs to support large graphical applications for the first time. It also allowed multiple programs to run simultaneously on its Intel 80386 microprocessor.',           
+           'link': 'http://www.computerhistory.org/timeline/?year=1990'
+       }, 
+       {'start': '1991',
+           'title': 'World Wide Web announced'
+       },
+       {'start': '1991',
+           'title': 'Gopher released in spring',
+           'description':' How the Internet Gopher system has evolved since its first released in 1991 and how Internet Gopher relates to other popular Internet information systems. Current problems and future directions for the Internet Gopher system.',
+           'caption':' How the Internet Gopher system has evolved since its first released in 1991 and how Internet Gopher relates to other popular Internet information systems. Current problems and future directions for the Internet Gopher system.',           
+           'link': 'http://jucs.org/jucs_1_4/evolution_of_internet_gopher/McCahill_M_P.pdf '
+       },
+       {'start': '1991',
+           'title': 'Linux open source OS available.',
+           'description':'Designed by Finnish university student Linus Torvalds, Linux was released to several Usenet newsgroups on September 17th, 1991.  Almost immediately, enthusiasts began developing and improving Linux, such as adding support for peripherals and improving its stability.  In February 1992, Linux became free software or (as its developers preferred to say after 1998) open source.  Linux typically incorporated elements of the GNU operating system and became widely used.',
+           'caption':'Designed by Finnish university student Linus Torvalds, Linux was released to several Usenet newsgroups on September 17th, 1991.  Almost immediately, enthusiasts began developing and improving Linux, such as adding support for peripherals and improving its stability.  In February 1992, Linux became free software or (as its developers preferred to say after 1998) open source.  Linux typically incorporated elements of the GNU operating system and became widely used.',
+           'image':'http://www.computerhistory.org/timeline/images/1991_linus1991.jpg',
+           'link': 'http://www.computerhistory.org/timeline/?year=1991'
+       }, 
+       {'start': '1991',
+           'title': 'Work on electronic theses and dissertations begins at Virginia Tech.',
+           'link': 'http://www.ndltd.org/about/history'
+       },
+       {'start': '1991',
+           'title': 'The precursor to the arXiv, the Los Alamos Phsysics preprint server begins.',
+           'description':'The arXiv was originally developed by Paul Ginsparg, in part to supersede a multinational email distribution list for preprints that had been operated manually by Joanne Cohn for about two years. It started in August 1991 as a repository for preprints in physics and later expanded to include astronomy, mathematics, computer science, nonlinear science, quantitative biology and, most recently, statistics.',           
+           'caption':'The arXiv was originally developed by Paul Ginsparg, in part to supersede a multinational email distribution list for preprints that had been operated manually by Joanne Cohn for about two years. It started in August 1991 as a repository for preprints in physics and later expanded to include astronomy, mathematics, computer science, nonlinear science, quantitative biology and, most recently, statistics.',           
+           'link': 'http://en.wikipedia.org/wiki/ArXiv#History'
+       },
+       {'start': '1991',
+           'title': 'CORE project begins scanning chemistry journals.',
+           'description':'In the CORE project (Chemistry On-line Retrieval Experiment), Cornell University is experimenting along with Bellcore, the American Chemical Society, Chemical Abstracts Service, OCLC, and University College London with the provision of primary journal material in electronic form [Lesk 1991]. In the course of this project we have been accumulating and displaying to chemists the contents of the American Chemical Society primary journals, a group of twenty of the most important journals for chemical researchers. The material is available both as typesetting tapes, and thus in Ascii, and also as scanned page images. Thus, we have the opportunity to compare the relative advantages of both image and text display for chemical material.',           
+           'caption':'In the CORE project (Chemistry On-line Retrieval Experiment), Cornell University is experimenting along with Bellcore, the American Chemical Society, Chemical Abstracts Service, OCLC, and University College London with the provision of primary journal material in electronic form [Lesk 1991]. In the course of this project we have been accumulating and displaying to chemists the contents of the American Chemical Society primary journals, a group of twenty of the most important journals for chemical researchers. The material is available both as typesetting tapes, and thus in Ascii, and also as scanned page images. Thus, we have the opportunity to compare the relative advantages of both image and text display for chemical material. ',           
+           'link': 'http://www.lesk.com/mlesk/waterloo92/w92.html'
+       },
+       {'start': '1991',
+           'title': 'Electronic Theses and DIssertations (ultimately the Networked Digital Library of Theses and Dissertations or NDLTD) begins at Virginia Tech',           
+           'link': 'http://www.ndltd.org/about/history'
+       },       
+       {'start': '1991',
+           'title': 'Elsevier‚Äôs Tulip Project begins at 9 university libraries',           
+           'description': 'Source: Gusack, N., and Lynch, C. (1995), "The TULIP project", Library Hi Tech, Vol. 13, No.4, pp.7‚Äì24.'
+       },
+       {'start': '1992',
+           'title': 'Mosaic (the first browsers) is completed at NCSA at UIUC.',
+           'description':'Mosaic (the first browsers) is completed at NCSA at UIUC.',
+           'caption':'Mosaic (the first browsers) is completed at NCSA at UIUC.',
+           'image':'http://www.computerhistory.org/internet_history/thumbs/mosaic_t.gif',
+           'link': 'http://www.computerhistory.org/internet_history/internet_history_90s.html'
+       }, 
+       {'start': '1992',
+           'title': 'Yale University Press publishes Perseus 1.0 on a CD-Rom with an ‚Äúoptional videodisk‚Äù.'
+       },
+       {'start': '1992',
+           'title': 'Mercury Electronic Library at Carnegie Mellon University',
+           'description':'THE MERCURY ELECTRONIC LIBRARY AND LIBRARY INFORMATION SYSTEM II',
+           'link': 'http://www.cs.cornell.edu/wya/papers/Mercury6.doc'
+       }, 
+       {'start': '1993',
+           'title': 'Project Muse begins as a collaboration between Johns Hopkins Press and Library.',
+           'description':'Project MUSE is a leading provider of digital humanities and social science content for the scholarly community.  Since 1995 the MUSE journal collections have supported a wide array of research needs at academic, public, special, and school libraries worldwide. MUSE is the trusted source of complete, full-text versions of scholarly journals from many of the world\'s leading university presses and scholarly societies, with over 120 publishers currently participating. UPCC Book Collections on Project MUSE, launched in January 2012, offer top quality book-length scholarship, fully integrated with MUSE\'s scholarly journal content.  ',
+           'caption':'Project MUSE is a leading provider of digital humanities and social science content for the scholarly community.  Since 1995 the MUSE journal collections have supported a wide array of research needs at academic, public, special, and school libraries worldwide. MUSE is the trusted source of complete, full-text versions of scholarly journals from many of the world\'s leading university presses and scholarly societies, with over 120 publishers currently participating. UPCC Book Collections on Project MUSE, launched in January 2012, offer top quality book-length scholarship, fully integrated with MUSE\'s scholarly journal content.  ',
+           'image':'http://muse.jhu.edu/template2011/images/logo.png',
+           'link': 'http://muse.jhu.edu/about/'
+       }, 
+       {'start': '1993',
+           'title': 'Mosaic browser from NCSA (Univ. Illinois)'
+       },  
+       {'start': '1993',
+           'title': 'Dienst Protocol developed at Cornell',
+           'description':'Dienst Protocol developed at Cornell and becomes the basis for NCSTRL(Networked Computer Science Technical Reference Library)',
+           'caption':'Dienst Protocol developed at Cornell and becomes the basis for NCSTRL(Networked Computer Science Technical Reference Library)',
+           'image':'http://cstr-www.lcs.mit.edu/ltt-www/Public/Icons/ltt-icon3_thumbnail.jpg',
+           'link': 'http://cstr-www.lcs.mit.edu/'
+       }, 
+       {'start': '1993',
+           'title': 'NSF/DARPA/NASA Digital Library Initiative (phase 1).',
+           'description':'The Digital Libraries Initiative (DLI) was the result of a community-based process which began in the late 1980s with informal discussions between researchers and agency program managers. ',
+           'caption':'The Digital Libraries Initiative (DLI) was the result of a community-based process which began in the late 1980s with informal discussions between researchers and agency program managers. ',
+           'link': 'http://www.dlib.org/dlib/july98/07griffin.html'
+       },        
+       {'start': '1994',
+           'title': 'Netscape browser'
+       },                
+       {'start': '1994',
+           'title': 'Linux kernel released'
+       }, 
+       {'start': '1994',
+           'title': 'American Memory begins at Library of Congress with funding from Ameritech'
+       }, 
+       {'start': '1994',
+           'title': 'Yahoo is founded.',
+           'description':'Founded by Stanford graduate students Jerry Yang and David Filo, Yahoo started out as "Jerry\'s Guide to the World Wide Web" before being renamed. Yahoo originally resided on two machines, Akebono and Konishiki, both named after famous Sumo wrestlers. Yahoo would quickly expand to become one of the Internet‚Äôs most popular search engines.',
+           'caption':'Founded by Stanford graduate students Jerry Yang and David Filo, Yahoo started out as "Jerry\'s Guide to the World Wide Web" before being renamed. Yahoo originally resided on two machines, Akebono and Konishiki, both named after famous Sumo wrestlers. Yahoo would quickly expand to become one of the Internet‚Äôs most popular search engines.',
+        	'image':'http://www.computerhistory.org/timeline/images/1994_yahoo.jpg',
+           'link':'http://www.computerhistory.org/timeline/?year=1994'
+       },
+       {'start': '1995',
+           'title': 'Internet Explorer (Microsoft)'
+       },
+       {'start': '1995',
+           'title': 'New Zealand Digital Library (later Greenstone) begins (Ian Witten)'
+       }, 
+       {'start': '1995',
+           'title': 'High Wire Press founded at Stanford University',
+           'description':'Founded in 1995, with the launch of the Journal of Biological Chemistry (JBC Online). Science, the Journal of Neuroscience, and Proceedings of the National Academy of Science (PNAS) soon joined with HighWire to become pioneers who defined today\'s online journal. HighWire quickly became known for combining cutting-edge technology with long-term organizational stability and has maintained a leadership position in the industry ever since.',
+           'links':'http://highwire.stanford.edu/about/'           
+       },
+       {'start': '1995',
+           'title': 'Amazon.com goes online.'
+       },
+       {'start': '1995',
+           'title': 'Yahoo and Alta Vista start'
+       }, 
+       {'start': '1995',
+           'title': 'Perseus project website established',
+           'description':'Building a digital library: the Perseus project as a case study in the humanities',
+           'links':'Perseus project website established'           
+       },       
 ]
 }
