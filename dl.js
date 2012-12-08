@@ -638,7 +638,7 @@
 		  'link':'http://www.oclc.org/research/partnership/about.html'
        },
        {'start': '2009',
-          'title': 'University of Michigan Press announces that “we will publish all new academic monographs primarily in a range of digital formats.”',
+          'title': 'University of Michigan Press announces to publish all new academic monographs primarily in a range of digital formats.',
 		  'image':'https://www.press.umich.edu/images/umpre/logo.png',
 		  'link':'https://www.press.umich.edu/script/press/browse/digital_products'
        },
@@ -646,6 +646,13 @@
           'title': 'Kindle sales begin in Germany ',
 		  'image':'http://www.faz.net/polopoly_fs/1.630048!/image/1972496139.jpg_gen/derivatives/article_aufmacher_klein/1972496139.jpg',
 		  'link':'http://www.faz.net/aktuell/wirtschaft/netzwirtschaft/lesegeraete-amazon-eroeffnet-deutschen-kindle-store-15418.html'
+       },
+       {'start': '2007',
+	   'end':'2012',
+          'title': 'Deutsche Digitale Bibliothek is envisioned and in November 2012 launched in Beta',
+		  'description':'Since the summer of 2007, a competence network made up of representatives of the Federal Government, the Länder and municipalities has been working on this ambitious project. Starting in 2010, the first phase of the technical infrastructure was created at the Fraunhofer Institute for Intelligent Analysis and Information Systems (IAIA). As technical operator, FIZ Karlsruhe  Leibniz Institute for Information Infrastructure is responsible for the entire technical and administrative operations of the DDB central infrastructure',
+		  'image':'http://www.deutsche-digitale-bibliothek.de/content/themes/base/elements/logo_header.png',
+		  'link':'http://www.deutsche-digitale-bibliothek.de/content/news/2012-11-28-000'
        },	   
 ]
 }

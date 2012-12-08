@@ -16,3 +16,6 @@ Presented at: http://norm.al/digital-library-timeline/
 
 ## Maintainer 
 -> Armand Brahaj (armand.brahaj@fiz-karlsruhe.de)
+
+## Alternations from the original Digital Library Timeline 
+-> Some new info is added covering the recent changes. More [info at](/Additions.md)
