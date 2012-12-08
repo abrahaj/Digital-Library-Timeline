@@ -14,8 +14,9 @@ The work is based on: https://docs.google.com/document/d/1LSjV9LAM3L5Y2e69KOIJNg
 ## Web Interface		
 Presented at: http://norm.al/digital-library-timeline/
 
+## Alternations from the original Digital Library Timeline 
+-> Some new info is added covering the recent changes. More info at [Additions.md](Additions.md).
+
 ## Maintainer 
 -> Armand Brahaj (armand.brahaj@fiz-karlsruhe.de)
 
-## Alternations from the original Digital Library Timeline 
--> Some new info is added covering the recent changes. More [info at](/Additions.md)
