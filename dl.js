@@ -13,21 +13,21 @@
 
         {'start': '1944',
         'title': 'Howard Aiken completes the Harvard Mark 1 computer',
-        'description': 'Harvard Mark-1 is completed. Conceived by Harvard professor Howard Aiken, and designed and built by IBM, the Harvard Mark-1 was a room-sized, relay-based calculator. The machine had a fifty-foot long camshaft that synchronized the machine�s thousands of component parts. The Mark-1 was used to produce mathematical tables but was soon superseded by stored program computers.',
+        'description': 'Harvard Mark-1 is completed. Conceived by Harvard professor Howard Aiken, and designed and built by IBM, the Harvard Mark-1 was a room-sized, relay-based calculator. The machine had a fifty-foot long camshaft that synchronized the machine?s thousands of component parts. The Mark-1 was used to produce mathematical tables but was soon superseded by stored program computers.',
         'image': 'http://www.computerhistory.org/timeline/images/1944_harvard_markI.jpg',
         'link': 'http://www.computerhistory.org/timeline/?year=1944'
         },
 
         {'start': '1944',
         'title': 'Colossus vacuum tube computer is completed at Bletchley Park in the UK',
-        'description': 'The first Colossus is operational at Bletchley Park. Designed by British engineer Tommy Flowers, the Colossus was designed to break the complex Lorenz ciphers used by the Nazis during WWII. A total of ten Colossi were delivered to Bletchley, each using 1,500 vacuum tubes and a series of pulleys transported continuous rolls of punched paper tape containing possible solutions to a particular code. Colossus reduced the time to break Lorenz messages from weeks to hours. The machine�s existence was not made public until the 1970s',
+        'description': 'The first Colossus is operational at Bletchley Park. Designed by British engineer Tommy Flowers, the Colossus was designed to break the complex Lorenz ciphers used by the Nazis during WWII. A total of ten Colossi were delivered to Bletchley, each using 1,500 vacuum tubes and a series of pulleys transported continuous rolls of punched paper tape containing possible solutions to a particular code. Colossus reduced the time to break Lorenz messages from weeks to hours. The machine?s existence was not made public until the 1970s',
         'image': 'http://www.computerhistory.org/timeline/images/1944_Colossus.jpg',
         'link': 'http://www.computerhistory.org/timeline/?year=1944'
         },
 		
 		{'start': '1945',
         'title': 'Grace Hopper finds a moth in the Harvard Mark II -- the first computer bug.',
-        'description': 'On September 9th, Grace Hopper recorded the first actual computer "bug" � a moth stuck between the relays and logged at 15:45 hours on the Harvard Mark II. Hopper, a rear admiral in the U.S. Navy, enjoyed successful careers in academia, business, and the military while making history in the computer field. She helped program the Harvard Mark I and II and developed the first compiler, A-0. Her subsequent work on programming languages led to COBOL, a language specified to operate on machines of different manufacturers.',
+        'description': 'On September 9th, Grace Hopper recorded the first actual computer "bug" ? a moth stuck between the relays and logged at 15:45 hours on the Harvard Mark II. Hopper, a rear admiral in the U.S. Navy, enjoyed successful careers in academia, business, and the military while making history in the computer field. She helped program the Harvard Mark I and II and developed the first compiler, A-0. Her subsequent work on programming languages led to COBOL, a language specified to operate on machines of different manufacturers.',
         'image': 'http://www.computerhistory.org/timeline/images/1945_hopper.jpg',
         'link': 'http://www.computerhistory.org/timeline/?year=1945'
         },
@@ -65,13 +65,13 @@
         },
 		{'start': '1952',
         'title': 'IBM 726 implements high speed magnetic tape storage',
-        'description': 'Magnetic tape allows for inexpensive mass storage of information and so is a key part of the computer revolution.  The IBM 726 was one of the first practical high-speed magnetic tape systems for electronic digital computers.  Announced on May 21, 1952, the system used a unique �vacuum channel� method of keeping a loop of tape circulating between two points allowing the tape drive to start and stop the tape in a split-second.  The Model 726 was first sold with IBM�s first electronic digital computer the Model 701 and could store 2 million digits per tape�an enormous amount at the time.  It rented for $850 a month.',
+        'description': 'Magnetic tape allows for inexpensive mass storage of information and so is a key part of the computer revolution.  The IBM 726 was one of the first practical high-speed magnetic tape systems for electronic digital computers.  Announced on May 21, 1952, the system used a unique ?vacuum channel? method of keeping a loop of tape circulating between two points allowing the tape drive to start and stop the tape in a split-second.  The Model 726 was first sold with IBM?s first electronic digital computer the Model 701 and could store 2 million digits per tape?an enormous amount at the time.  It rented for $850 a month.',
         'image': 'http://www.computerhistory.org/timeline/images/1952_ibm726.jpg',
         'link': 'http://www.computerhistory.org/timeline/?year=1952'
         },		
 		{'start': '1956',
         'title': 'IBM magnetic disk becomes available.',
-        'description': 'The era of magnetic disk storage dawned with IBM�s shipment of a 305 RAMAC to Zellerbach Paper in San Francisco. The IBM 350 disk file served as the storage component for the Random Access Method of Accounting and Control. It consisted of 50 magnetically coated metal platters with 5 million bytes of data. The platters, stacked one on top of the other, rotated with a common drive shaft.',
+        'description': 'The era of magnetic disk storage dawned with IBM?s shipment of a 305 RAMAC to Zellerbach Paper in San Francisco. The IBM 350 disk file served as the storage component for the Random Access Method of Accounting and Control. It consisted of 50 magnetically coated metal platters with 5 million bytes of data. The platters, stacked one on top of the other, rotated with a common drive shaft.',
         'image': 'http://www.computerhistory.org/timeline/images/1956_ramac_rjohnson.jpg',
         'link': 'http://www.computerhistory.org/timeline/?year=1956'
         },	
@@ -98,15 +98,15 @@
 
 		{'start': '1962',
         'title': 'J.C.R. Licklider becomes head of the computer research program at ARPA (Advanced Research Projects Agency). The world has 10,000 computers.',
-        'description': 'J.C.R. Licklider writes memos about his Intergalactic Network concept, where everyone on the globe is interconnected and can access programs and data at any site from anywhere. He is talking to his own �Intergalactic Network� of researchers across the country. In October, �Lick� becomes the first head of the computer research program at ARPA, which he calls the Information Processing Techniques Office (IPTO).',
-		'caption': 'J.C.R. Licklider writes memos about his Intergalactic Network concept, where everyone on the globe is interconnected and can access programs and data at any site from anywhere. He is talking to his own �Intergalactic Network� of researchers across the country. In October, �Lick� becomes the first head of the computer research program at ARPA, which he calls the Information Processing Techniques Office (IPTO).',
+        'description': 'J.C.R. Licklider writes memos about his Intergalactic Network concept, where everyone on the globe is interconnected and can access programs and data at any site from anywhere. He is talking to his own ?Intergalactic Network? of researchers across the country. In October, ?Lick? becomes the first head of the computer research program at ARPA, which he calls the Information Processing Techniques Office (IPTO).',
+		'caption': 'J.C.R. Licklider writes memos about his Intergalactic Network concept, where everyone on the globe is interconnected and can access programs and data at any site from anywhere. He is talking to his own ?Intergalactic Network? of researchers across the country. In October, ?Lick? becomes the first head of the computer research program at ARPA, which he calls the Information Processing Techniques Office (IPTO).',
         'image': 'http://www.computerhistory.org/internet_history/internet_poster.gif',
         'link': 'http://www.computerhistory.org/internet_history/'
         },
 		{'start': '1962',
-        'title': 'First interactive computer game at MIT �Spacewar!�.',
-        'description': 'MIT students Slug Russell, Shag Graetz, and Alan Kotok wrote SpaceWar!, considered the first interactive computer game. First played at MIT on DEC�s PDP-1, the large-scope display featured interactive, shoot�em-up graphics that inspired future video games. Dueling players fired at each other�s spaceships and used early versions of joysticks to manipulate away from the central gravitational force of a sun as well as from the enemy ship.',
-		'caption': 'MIT students Slug Russell, Shag Graetz, and Alan Kotok wrote SpaceWar!, considered the first interactive computer game. First played at MIT on DEC�s PDP-1, the large-scope display featured interactive, shoot�em-up graphics that inspired future video games. Dueling players fired at each other�s spaceships and used early versions of joysticks to manipulate away from the central gravitational force of a sun as well as from the enemy ship.',
+        'title': 'First interactive computer game at MIT ?Spacewar!?.',
+        'description': 'MIT students Slug Russell, Shag Graetz, and Alan Kotok wrote SpaceWar!, considered the first interactive computer game. First played at MIT on DEC?s PDP-1, the large-scope display featured interactive, shoot?em-up graphics that inspired future video games. Dueling players fired at each other?s spaceships and used early versions of joysticks to manipulate away from the central gravitational force of a sun as well as from the enemy ship.',
+		'caption': 'MIT students Slug Russell, Shag Graetz, and Alan Kotok wrote SpaceWar!, considered the first interactive computer game. First played at MIT on DEC?s PDP-1, the large-scope display featured interactive, shoot?em-up graphics that inspired future video games. Dueling players fired at each other?s spaceships and used early versions of joysticks to manipulate away from the central gravitational force of a sun as well as from the enemy ship.',
         'image': 'http://www.computerhistory.org/timeline/images/1962_spacewar.jpg',
         'link': 'http://www.computerhistory.org/timeline/?year=1962'
         },
@@ -183,8 +183,8 @@
         },
 		{'start': '1971',
         'title': 'Ray Tomlinson sends the first email ',
-        'description': 'The first e-mail is sent. Ray Tomlinson of the research firm Bolt, Beranek and Newman sent the first e-mail when he was supposed to be working on a different project. Tomlinson, who is credited with being the one to decide on the "@" sign for use in e-mail, sent his message over a military network called ARPANET. When asked to describe the contents of the first email, Tomlinson said it was �something like "QWERTYUIOP"�',
-		'caption': 'The first e-mail is sent. Ray Tomlinson of the research firm Bolt, Beranek and Newman sent the first e-mail when he was supposed to be working on a different project. Tomlinson, who is credited with being the one to decide on the "@" sign for use in e-mail, sent his message over a military network called ARPANET. When asked to describe the contents of the first email, Tomlinson said it was �something like "QWERTYUIOP"�',
+        'description': 'The first e-mail is sent. Ray Tomlinson of the research firm Bolt, Beranek and Newman sent the first e-mail when he was supposed to be working on a different project. Tomlinson, who is credited with being the one to decide on the "@" sign for use in e-mail, sent his message over a military network called ARPANET. When asked to describe the contents of the first email, Tomlinson said it was ?something like "QWERTYUIOP"?',
+		'caption': 'The first e-mail is sent. Ray Tomlinson of the research firm Bolt, Beranek and Newman sent the first e-mail when he was supposed to be working on a different project. Tomlinson, who is credited with being the one to decide on the "@" sign for use in e-mail, sent his message over a military network called ARPANET. When asked to describe the contents of the first email, Tomlinson said it was ?something like "QWERTYUIOP"?',
         'image': 'http://www.computerhistory.org/timeline/images/1971_tomlinson1.jpg',
         'link': 'http://www.computerhistory.org/timeline/?year=1971'
         },		
@@ -208,8 +208,8 @@
         },	
 		{'start': '1974',
         'title': 'The first mouse is used in the Alto at Xerox Research PARC',
-        'description': 'Researchers at the Xerox Palo Alto Research Center designed the Alto � the first work station with a built-in mouse for input. The Alto stored several files simultaneously in windows, offered menus and icons, and could link to a local area network. Although Xerox never sold the Alto commercially, it gave a number of them to universities. Engineers later incorporated its features into work stations and personal computers.',
-		'caption': 'Researchers at the Xerox Palo Alto Research Center designed the Alto � the first work station with a built-in mouse for input. The Alto stored several files simultaneously in windows, offered menus and icons, and could link to a local area network. Although Xerox never sold the Alto commercially, it gave a number of them to universities. Engineers later incorporated its features into work stations and personal computers.',
+        'description': 'Researchers at the Xerox Palo Alto Research Center designed the Alto ? the first work station with a built-in mouse for input. The Alto stored several files simultaneously in windows, offered menus and icons, and could link to a local area network. Although Xerox never sold the Alto commercially, it gave a number of them to universities. Engineers later incorporated its features into work stations and personal computers.',
+		'caption': 'Researchers at the Xerox Palo Alto Research Center designed the Alto ? the first work station with a built-in mouse for input. The Alto stored several files simultaneously in windows, offered menus and icons, and could link to a local area network. Although Xerox never sold the Alto commercially, it gave a number of them to universities. Engineers later incorporated its features into work stations and personal computers.',
         'image': 'http://www.computerhistory.org/timeline/images/1974_alto.jpg',
         'link': 'http://www.computerhistory.org/timeline/?year=1974'
         },		
@@ -246,21 +246,21 @@
         },		
 		{'start': '1981',
         'title': 'The Osborne I (11 Kg / 24 lbs) is sold. Also the IBM PC',
-        'description': 'The first �portable� computer is launched in the form of the Osborne, a 24-pound suitcase-sized device.<br >The IBM PC is launched in August 1981. ',
-		'caption': 'The first �portable� computer is launched in the form of the Osborne, a 24-pound suitcase-sized device.<br >The IBM PC is launched in August 1981. ',
+        'description': 'The first ?portable? computer is launched in the form of the Osborne, a 24-pound suitcase-sized device.<br >The IBM PC is launched in August 1981. ',
+		'caption': 'The first ?portable? computer is launched in the form of the Osborne, a 24-pound suitcase-sized device.<br >The IBM PC is launched in August 1981. ',
         'image': 'http://www.computerhistory.org/internet_history/thumbs/osborne_t.jpg',
         'link': 'http://www.computerhistory.org/internet_history/internet_history_80s.html'
         },		
 		{'start': '1981',
         'title': 'MS-DOS is the software for the IBM PC',
-        'description': 'IBM introduced its PC, igniting a fast growth of the personal computer market. The first PC ran on a 4.77 MHz Intel 8088 microprocessor and used Microsoft�s MS-DOS operating system.',
-		'caption': 'IBM introduced its PC, igniting a fast growth of the personal computer market. The first PC ran on a 4.77 MHz Intel 8088 microprocessor and used Microsoft�s MS-DOS operating system.',
+        'description': 'IBM introduced its PC, igniting a fast growth of the personal computer market. The first PC ran on a 4.77 MHz Intel 8088 microprocessor and used Microsoft?s MS-DOS operating system.',
+		'caption': 'IBM introduced its PC, igniting a fast growth of the personal computer market. The first PC ran on a 4.77 MHz Intel 8088 microprocessor and used Microsoft?s MS-DOS operating system.',
         'link': 'http://www.computerhistory.org/timeline/?year=1981'
         },			
 		{'start': '1983',
         'title': 'MS-Word is announced.',
-        'description': 'Microsoft announced Word, originally called Multi-Tool Word, and Windows. The latter doesn�t ship until 1985, although the company said it would be on track for an April 1984 release. In a marketing blitz, Microsoft distributed 450,000 disks demonstrating its Word program in the November issue of PC World magazine.',
-		'caption': 'Microsoft announced Word, originally called Multi-Tool Word, and Windows. The latter doesn�t ship until 1985, although the company said it would be on track for an April 1984 release. In a marketing blitz, Microsoft distributed 450,000 disks demonstrating its Word program in the November issue of PC World magazine.',
+        'description': 'Microsoft announced Word, originally called Multi-Tool Word, and Windows. The latter doesn?t ship until 1985, although the company said it would be on track for an April 1984 release. In a marketing blitz, Microsoft distributed 450,000 disks demonstrating its Word program in the November issue of PC World magazine.',
+		'caption': 'Microsoft announced Word, originally called Multi-Tool Word, and Windows. The latter doesn?t ship until 1985, although the company said it would be on track for an April 1984 release. In a marketing blitz, Microsoft distributed 450,000 disks demonstrating its Word program in the November issue of PC World magazine.',
         'link': 'http://www.computerhistory.org/timeline/?year=1983'
         },		
 		{'start': '1984',
@@ -278,8 +278,8 @@
         },		
 		{'start': '1984',
         'title': 'The British JANET network focuses on educational institutions.',
-        'description': 'The British JANET explicitly announces its intention to serve the nation�s higher education community, regardless of discipline.',
-		'caption': 'The British JANET explicitly announces its intention to serve the nation�s higher education community, regardless of discipline.',
+        'description': 'The British JANET explicitly announces its intention to serve the nation?s higher education community, regardless of discipline.',
+		'caption': 'The British JANET explicitly announces its intention to serve the nation?s higher education community, regardless of discipline.',
         'link': 'http://www.computerhistory.org/internet_history/internet_history_80s.html'
         },		
 		{'start': '1985',
@@ -330,8 +330,8 @@
         },		
 		{'start': '1987',
         'title': 'Electronic theses and dissertations discussed in Ann Arbor, MI',
-        'description': 'The concept of electronic theses and dissertations (ETDs) was first discussed at a 1987 meeting in Ann Arbor, Michigan, organized by UMI and attended by representatives from Virginia Tech, the University of Michigan, and two small software companies�Toronto-based SoftQuad and Michigan-based ArborText. ',
-		'caption': 'The concept of electronic theses and dissertations (ETDs) was first discussed at a 1987 meeting in Ann Arbor, Michigan, organized by UMI and attended by representatives from Virginia Tech, the University of Michigan, and two small software companies�Toronto-based SoftQuad and Michigan-based ArborText. ',
+        'description': 'The concept of electronic theses and dissertations (ETDs) was first discussed at a 1987 meeting in Ann Arbor, Michigan, organized by UMI and attended by representatives from Virginia Tech, the University of Michigan, and two small software companies?Toronto-based SoftQuad and Michigan-based ArborText. ',
+		'caption': 'The concept of electronic theses and dissertations (ETDs) was first discussed at a 1987 meeting in Ann Arbor, Michigan, organized by UMI and attended by representatives from Virginia Tech, the University of Michigan, and two small software companies?Toronto-based SoftQuad and Michigan-based ArborText. ',
 		'image': 'http://www.ndltd.org/logo.gif',
         'link': 'http://www.ndltd.org/about/history'
         },
@@ -491,6 +491,161 @@
            'title': 'Perseus project website established',
            'description':'Building a digital library: the Perseus project as a case study in the humanities',
            'links':'Perseus project website established'           
-       },       
+       },
+       {'start': '1996',
+           'title': 'Brewster Kahle founds the Internet Archive in San Francisco',
+           'description':'Brewster Kahle founds the Internet Archive in San Francisco',
+        	'image':'http://websearch.archive.org/katrina/images/ia-logo.jpg',
+           'link':'http://archive.org'
+       },
+       {'start': '1996',
+           'title': 'BackRub (the first version of Google) begins at Stanford',
+           'description':'Larry and Sergey, now Stanford computer science grad students, begin collaborating on a search engine called BackRub. BackRub operates on Stanford servers for more than a year—eventually taking up too much bandwidth to suit the university',
+           'link':'http://www.google.com/intl/en/about/company/history/',
+        	'image':'http://websearch.archive.org/katrina/images/ia-logo.jpg'
+       },
+       {'start': '1997',
+           'title': 'Göttinger Digitalisierugszentrum und BSB Digitalisierungszentrum begin their digital libraries with DFG funding. ',
+        	'image':'http://gdz.sub.uni-goettingen.de/fileadmin/gdz/layout/head_logo.jpg',
+           'link':'http://gdz.sub.uni-goettingen.de/gdz/hintergrund/'
+       },
+       {'start': '1997',
+           'title': 'Humboldt-Universität zu Berlin launches its electronic document server.',
+        	'image':'http://web.archive.org/web/20011221144301im_/http://edoc.hu-berlin.de/buttons/docserv.gif',
+           'link':'http://web.archive.org/web/20010907092650/http://edoc.hu-berlin.de/'
+       },
+	   {'start': '1997',
+           'title': 'Carl Lagoze creates FEDORA',
+        	'image':'http://www.fedora-commons.org/portal-logo.png',
+           'link':'http://webdoc.sub.gwdg.de/edoc/aw/d-lib/dlib/november97/daniel/11daniel.html'
+       },
+	   {'start': '1998',
+           'title': 'DLI2 (Digital Library Initiative, Phase 2) begins with support from National Science Foundation (NSF) / Defense Advanced Research Projects Agency (DARPA) /NASA/National Library of Medicine/National Endowment for the Humanities/Library of Congress',
+           'link':'http://www.dlib.org/dlib/july98/07griffin.html'
+       },	   
+	   {'start': '1998',
+           'title': 'LOCKSS NSF funding begins'
+       },
+       {'start': '1998',
+           'title': 'Google incorporates',
+           'description':'Sun co-founder Andy Bechtolsheim writes a check for $100,000 to an entity that doesn’t exist yet: a company called Google Inc.',
+			'link':'http://www.google.com/intl/en/about/company/history/',
+			'image':'http://www.google.com/images/logos/google_logo_41.png'
+       },
+	   {'start': '1998',
+           'title': 'Amazon.de begins'
+       },
+	   {'start': '1998',
+           'title': 'Institute of Museum and Library Services (IMLS) begins its National Leadership Grants.'
+       },
+       {'start': '1998',
+           'title': 'Troy Williams founds Questia to be a commercial digital library that marketed directly to readers',
+           'description':'Troy Williams moved to Texas, raised $150 million, and started a company called Questia, and convinced hundreds of publishers to give Questia digital copyrights. To date, the company has somewhere north of 67,000 books and 1.5 million articles online.',
+			'link':'http://venturebeat.com/2008/01/29/questia-founder-moves-on-to-stealth-semantic-startup-peoplepad/',
+			'image':'http://qtastatic.com/content/img/logo.png'
+       },
+	   {'start': '2000',
+           'title': 'National Science Digital Library begins with NSF funding & management at Cornell'
+       },
+       {'start': '2001',
+           'title': 'Open Archives Initiative Protocol Metadata Harvesting begins at Cornell with Carl Lagoze and Herbert Van de Sampel'
+       },
+       {'start': '2001',
+           'title': 'OAIster is launched at U of Michigan',
+			'link':'https://docs.google.com/viewer?url=http%3A%2F%2Funllib.unl.edu%2FLPP%2FPNLA%2520Quarterly%2Fgarrison74-2.pdf'
+       },
+       {'start': '2001',
+           'title': 'University of Chicago Press launches Bibliovault',
+		   'description':'BiblioVault helps scholarly publishers preserve and extend the value of their books, providing long-term secure storage of digital book files for member presses, as well as a wide range of scanning, printing, transfer, conversion, and distribution services.',
+		  'image':' http://www.bibliovault.org/images/bv_header_green.gif',
+		  'link':'http://www.bibliovault.org/BV.about.epl'
+       },
+       {'start': '2001',
+           'title': 'Concept of BASE (Bielefeld Academic Search Engine) developed.',		 
+		  'link':'http://www.ub.uni-bielefeld.de/wiki/BASE'
+       },
+       {'start': '2001',
+           'title': '“Feeding America: the Historic American Cookbook Project” begins.',
+		   'description':'The Feeding America project has created an online collection of some of the most important and influential American cookbooks from the late 18th to early 20th century. ',
+		  'image':'http://digital.lib.msu.edu/projects/cookbooks/images/header.png',
+		  'link':'http://digital.lib.msu.edu/projects/cookbooks/html/project.html'
+       },
+		{'start': '2002',
+           'title': 'DigiZeitschriften begins at Göttingen'
+       },
+       {'start': '2002',
+           'title': 'Google News begins',
+		   'description':'Google News launches with 4000 news sources',
+		  'image':'http://www.google.com/images/logos/google_logo_41.png',
+		  'link':'http://www.google.com/intl/en/about/company/history/'
+       },
+       {'start': '2002',
+           'title': 'The Star Trek language Klingon becomes one of the 72 language interfaces at Google',
+		   'description':' Klingon becomes one of 72 language interfaces.',
+		  'image':'http://www.google.com/images/logos/google_logo_41.png',
+		  'link':'http://www.google.com/intl/en/about/company/history/'
+       },
+       {'start': '2003',
+           'title': 'DSPACE institutional repository begins at MIT'
+       },
+       {'start': '2003',
+           'title': 'Universitätsverlag Göttingen established',
+		  'image':'http://www.univerlag.uni-goettingen.de/content/resource/verlagslogo.gif',
+		  'link':'http://www.univerlag.uni-goettingen.de/content/about.php'
+       },
+       {'start': '2003',
+           'title': 'Berlin becomes the first European University to join NTLTD',
+		   'description':'Berlin becomes the first European University to join NTLTD (National Digital Library of Theses and Dissertations) ',
+		  'image':'http://www.ndltd.org/logo.gif',
+		  'link':'http://www.ndltd.org/about/history'
+       },
+       {'start': '2003',
+           'title': 'Google Print (later Google Books) begins',
+		   'description':'Launched Google Print (which later becomes Google Book Search), indexing small excerpts from books to appear in search results. ',
+		  'image':'http://www.google.com/images/logos/google_logo_41.png',
+		  'link':'http://www.google.com/intl/en/about/company/history/'
+       },
+	   {'start': '2004',
+           'title': 'BASE goes online',
+		  'link':'http://www.ub.uni-bielefeld.de/wiki/BASE'
+       },
+       {'start': '2004',
+           'title': 'Google Scholar begins in beta',
+		   'description':'Launched  the beta version of Google Scholar, a free service for searching scholarly literature such as peer-reviewed papers, theses, books, preprints, abstracts and technical reports. ',
+		  'image':'http://www.google.com/images/logos/google_logo_41.png',
+		  'link':'http://www.google.com/intl/en/about/company/history/'
+       },
+       {'start': '2004',
+           'title': 'Google Books expands through partnerships with the University of Michigan, Harvard, Stanford, NY Public, and Oxford.',
+		  'image':'http://www.google.com/images/logos/google_logo_41.png',
+		  'link':'http://www.google.com/intl/en/about/company/history/'
+       },
+       {'start': '2005',
+          'title': 'Google announces its book scanning project with U of Michigan',
+		  'image':'http://www.google.com/images/logos/google_logo_41.png',
+		  'link':'http://www.google.com/intl/en/about/company/history/'
+       },
+       {'start': '2005',
+	   'end':'2008',
+          'title': 'Proposal for Europeana in 2005, Prototype launched in 2008',
+		  'image':'http://www.europeana.eu/portal/sp/img/europeana-logo-en.png',
+		  'link':'http://www.europeana.eu/portal/'
+       },
+       {'start': '2006',
+          'title': 'Research Libraries Group merges with OCLC',
+		  'description':'The OCLC Research Library Partnership is a new entity that replaced the RLG Partnership on 1 July 2011 and is a locus for OCLC\'s increased support of the research library community. It is an organization born out of the successful merger of RLG and OCLC in 2006, when expert staff from the two organizations were blended into one team with a combined effort directed toward supporting research libraries and archives. The merger created a venue where affiliated institutions could collectively identify, analyze, prioritize and design scalable solutions to shared information challenges.',
+		  'image':'http://www.oclc.org/content/dam/research/design-images/oclc-research-logo.png',
+		  'link':'http://www.oclc.org/research/partnership/about.html'
+       },
+       {'start': '2009',
+          'title': 'University of Michigan Press announces that “we will publish all new academic monographs primarily in a range of digital formats.”',
+		  'image':'https://www.press.umich.edu/images/umpre/logo.png',
+		  'link':'https://www.press.umich.edu/script/press/browse/digital_products'
+       },
+       {'start': '2011',
+          'title': 'Kindle sales begin in Germany ',
+		  'image':'http://www.faz.net/polopoly_fs/1.630048!/image/1972496139.jpg_gen/derivatives/article_aufmacher_klein/1972496139.jpg',
+		  'link':'http://www.faz.net/aktuell/wirtschaft/netzwirtschaft/lesegeraete-amazon-eroeffnet-deutschen-kindle-store-15418.html'
+       },	   
 ]
 }
