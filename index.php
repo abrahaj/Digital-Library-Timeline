@@ -10,8 +10,8 @@
             var eventSource = new Timeline.DefaultEventSource(0);
             
             var theme = Timeline.ClassicTheme.create();
-            theme.event.bubble.width = 350;
-            theme.event.bubble.height = 300;
+            theme.event.bubble.width = 550;
+            theme.event.bubble.height = 500;
             var d = Timeline.DateTime.parseGregorianDateTime("1990")
             var bandInfos = [
                 
@@ -68,7 +68,7 @@
     </div>
     
     <div id="footer">
-      Copyright &copy; Not yet defined
+      Copyright &copy; Not yet defined | Source Code: <a href="https://github.com/abrahaj/Digital-Library-Timeline">https://github.com/abrahaj/Digital-Library-Timeline</a> | Maintainer: A. Brahaj
     </div>
   </body>
 </html>
